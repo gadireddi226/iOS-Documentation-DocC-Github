@@ -1,0 +1,11 @@
+.DS_Store
+ExampleProject.swiftpm/.swiftpm
+ExampleProject.swiftpm/.DS_Store
+ExampleProject.swiftpm/.build
+ExampleProject.swiftpm/Packages
+ExampleProject.swiftpm/*.xcodeproj
+ExampleProject.swiftpmxcuserdata/
+ExampleProject.swiftpmDerivedData/
+ExampleProject.swiftpm.swiftpm/config/registries.json
+ExampleProject.swiftpm.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+ExampleProject.swiftpm.netrc
