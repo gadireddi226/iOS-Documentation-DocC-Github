@@ -38,7 +38,8 @@ swift package --allow-writing-to-directory ./docs \
 ### 3. Set up github to host the documentation
 1. Enable github page hosting in setting of your github repository.
 2. The default branch for hosting shoud be gh-pages and the folder where shoud github look is **/docs**
-3. Then you should be able to see your documentation as in the xcode.🎉
+3. Open the web page that is set up in github pages and add to the url documentation/YourTargetName/
+4. Then you should be able to see your documentation as in the xcode.🎉
 
 ### Resources
 [docC plugin documentation](https://apple.github.io/swift-docc-plugin/documentation/swiftdoccplugin/)
