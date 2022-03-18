@@ -7,6 +7,6 @@
 ### Via Xcode
 1. Clone the project and build the documentation via Xcode 
 ### You can see the github page with the DocC documentation of the project
-2. 
+https://gadireddi226.github.io/iOS-Documentation-DocC-Github/documentation/exampleproject/
 
 
