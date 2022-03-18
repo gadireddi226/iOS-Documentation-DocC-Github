@@ -15,8 +15,7 @@ Before you start I would recommend to learn the syntax first [Syntax of DocC Mar
 - <doc:How-to-set-up-extension-file>
 ### Static hosting
 - <doc:How-to-set-up-github-or-github-enterprise>
-### Views
+### Example documentation of application objects
 - ``MainView``
 - ``AlarmView``
-### ViewModels
 - ``AlarmViewModel``
